@@ -3,7 +3,9 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
+- Preview URL: https://main--mysite--meetmulik.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
+- Live URL: https://main--mysite--meetmulik.aem.live/
 
 ## Documentation
 
